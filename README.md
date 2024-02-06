@@ -25,7 +25,7 @@ Once it is compiled, you can start the tool and provide a number up to which the
 ./primeGenerator <number>
 ~~~
 
-The output should be something like that:
+The output should be something like that (tab separated):
 
 ~~~console
 2	1
